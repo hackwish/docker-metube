@@ -1,0 +1,4 @@
+services:
+  metube:
+    volumes:
+      - /path/to/downloads:/downloads
